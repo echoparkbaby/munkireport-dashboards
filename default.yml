@@ -1,0 +1,49 @@
+display_name: Dashboard
+hotkey: d
+1:
+    client:
+    messages:
+2:
+    pending:  
+    pending_munki: {  }  
+    pending_apple:
+3:
+    new_clients:
+    detectx: {  }    
+    munki: {  }
+4:
+    munkireportinfo:
+    munkireportinfo_versions:
+    munki_versions: {  }
+5:
+    get_failing:
+    smart_overall_health_test:  {  }
+    uptime: {  }
+6:
+    filevault_status:
+    filevault: {  }
+    sip: {  }
+13:    
+    arqbackup:
+    crashplan:
+    timemachine:
+7:
+    gatekeeper: {  }
+    power_battery_condition: {  }
+    power_battery_health: {  }
+8:
+    warranty: {  }
+    duplicated_computernames: {  }
+9:
+    osbuild:  {  }
+    os: {  }
+    hardware_age: {  }
+10:
+    memory: {  }
+    os_donut:
+13:
+    filesystem_type:
+    profile_group:
+    firmwarepw:
+    
+    

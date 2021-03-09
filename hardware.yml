@@ -1,0 +1,15 @@
+display_name: Hardware
+hotkey: H
+row1:
+    hardware_basemodel:
+    hardware_type:
+row2:
+    hardware_age:
+    memory:
+    
+row3:
+        
+row4:
+    mbp15_battery_repair_program:
+    power_battery_condition:
+    power_battery_health:

@@ -1,0 +1,16 @@
+display_name: MDM
+hotkey: x
+row1:
+    user_approved_status:
+    users_ssh:
+row2:
+    new_clients:
+    pending_apple:
+    pending_munki:
+row3:
+    munki:
+    filevault_status:
+row4:
+    os_donut:
+    osbuild:   
+    user_approved_status:

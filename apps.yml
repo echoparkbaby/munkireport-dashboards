@@ -1,0 +1,40 @@
+# Security focused MunkiReport Dashboard
+
+display_name: Apps
+hotkey: z
+
+1:
+    app1: {appName: "Google Chrome", widget: "app"}
+    app2: {appName: "BusyCal", widget: "app"}
+    app3: {appName: "zoom.us", widget: "app"}
+2:
+    app4: {appName: "Firefox", widget: "app"}
+    app5: {appName: "Microsoft Word", widget: "app"}
+    app6: {appName: "Slack", widget: "app"}
+3:
+    firmwarepw: {  }
+    findmymac:  {  }
+    firewall_state:  {  }
+4:
+    skel_state:  {  }
+    ssh_state:  {  }
+    root_user:  {  }
+5:
+    user_approved_status:  {  }  
+    mdm_enrolled_via_dep:  {  }
+6:
+    softwareupdate_automaticcheckenabled:  {  }  
+    softwareupdate_criticalupdateinstall:  {  }
+    softwareupdate_configdatainstall:  {  }
+7:
+    softwareupdate_auto_update:  {  }
+    softwareupdate_automaticdownload:  {  }
+    softwareupdate_auto_update_restart_required:  {  }
+
+8:
+    softwareupdate_gatekeeper_disk_version:  {  }
+    softwareupdate_gatekeeper_version:  {  }
+9:
+    softwareupdate_kext_exclude_version:  {  }
+    softwareupdate_mrt_version:  {  }
+    softwareupdate_xprotect_version:  {  }

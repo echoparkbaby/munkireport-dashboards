@@ -1,0 +1,19 @@
+display_name: Apple Software Updates
+hotkey: a
+row1:
+    softwareupdate_auto_update:
+    softwareupdate_auto_update_restart_required:
+    softwareupdate_automaticcheckenabled:
+row2:
+    softwareupdate_automaticdownload:
+    softwareupdate_configdatainstall:
+    softwareupdate_criticalupdateinstall:
+row3:
+    softwareupdate_gatekeeper_disk_version:
+    softwareupdate_gatekeeper_version:
+    softwareupdate_seed:
+row4:
+    softwareupdate_xprotect_version:
+    softwareupdate_kext_exclude_version:
+    softwareupdate_mrt_version:
+    

@@ -1,0 +1,22 @@
+display_name: MSC
+hotkey: m
+row1:
+    manifests-included:
+    munki:
+    manifests:
+row2:
+    manifests_managed_installs:
+    manifests_managed_updates:
+    manifests_managed_uninstalls:
+row3:
+    manifests_manifest_count:
+    manifests_optional_installs:
+    manifests_self_service:
+row3:
+    pending_munki:
+    pending_removals_munki:
+row4:
+    mdm_status:
+    munki_errors:
+    munki_warnings:
+    munkiinfo_munkiprotocol:

@@ -1,0 +1,20 @@
+display_name: Drive Health & Backups
+hotkey: b
+row1:
+    smart_overall_health_test:
+    smart_status:
+   
+row2:
+    timemachine:
+    crashplan:
+    uptime:    
+row3:
+    disk_type:
+    global_disk_usage:
+    disk_report:
+row4:
+    filevault_status:
+    filevault:
+row4:
+    osbuild:    
+    
